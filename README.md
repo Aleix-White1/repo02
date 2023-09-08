@@ -8,7 +8,7 @@
 
 ## Git add .
 ![](/img/image-1.png)
-### Para subir todos los ficheros del repositorio al staying area
+### Para subir todos los ficheros del repositorio al staging area
 
 ## Git commit . para hacer un snapshot de todos los ficheros en el repositorio
 ![](/img/image-2.png)
