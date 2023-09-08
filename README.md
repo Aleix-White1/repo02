@@ -7,13 +7,13 @@
 ![Alt text](/img/image.png)
 
 ## Git add .
-![](image-1.png)
+![](/img/image-1.png)
 ### Para subir todos los ficheros del repositorio al staying area
 
 ## Git commit . para hacer un snapshot de todos los ficheros en el repositorio
-![](image-2.png)
+![](/img/image-2.png)
 
 ## Git status 
-![](image-3.png)
+![](/img/image-3.png)
 ### Para poder ver el estado del ciclo de vida de los ficheros
 
