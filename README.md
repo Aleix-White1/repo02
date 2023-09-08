@@ -17,3 +17,5 @@
 ![](/img/image-3.png)
 ### Para poder ver el estado del ciclo de vida de los ficheros
 
+## Git push
+![](/img/image-4.png)
