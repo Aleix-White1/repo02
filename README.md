@@ -12,3 +12,8 @@
 
 ## Git commit . para hacer un snapshot de todos los ficheros en el repositorio
 ![](image-2.png)
+
+## Git status 
+![](image-3.png)
+### Para poder ver el estado del ciclo de vida de los ficheros
+
